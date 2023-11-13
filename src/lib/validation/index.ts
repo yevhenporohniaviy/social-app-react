@@ -8,9 +8,7 @@ export const SignupValidationShema = z.object({
 });
 
 
-export const SigninvalidationShema = z.object({
-  name: z.string().min(2, { message: "Too Short" }),
-  username: z.string().min(2, { message: "Too Short" }),
+export const SigninvalidationShema = z.object({ 
   email: z.string().email(),
   password: z
     .string()
