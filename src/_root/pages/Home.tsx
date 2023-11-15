@@ -1,8 +1,8 @@
 const Home = () => {
   return ( 
-    <div>
+    <section className="flex flex-col ">
       Home
-    </div>
+    </section>
    );
 }
  
