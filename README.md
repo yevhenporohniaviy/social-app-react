@@ -38,5 +38,9 @@ If you are developing a production application, we recommend updating the config
    VITE_APPWRITE_USERS_COLLECTION_ID=
    VITE_APPWRITE_POSTS_COLLECTION_ID=
 ```
-
-![alt text](https://github.com/yevhenporohniaviy/social-app-react/social-app-react/main/assets/db/posts.png?raw=true)
+# Relationships posts
+![alt text](https://github.com/yevhenporohniaviy/social-app-react/blob/main/public/assets/db/posts.png?raw=true)
+# Relationships saves
+![alt text](https://github.com/yevhenporohniaviy/social-app-react/blob/main/public/assets/db/saves.png?raw=true)
+# Relationships users
+![alt text](https://github.com/yevhenporohniaviy/social-app-react/blob/main/public/assets/db/users.png?raw=true)
