@@ -19,7 +19,7 @@ const FileUploader = ({ fieldChange, mediaUrl}: FileUploaderProps) => {
   const { getRootProps, getInputProps, isDragActive } = useDropzone({
     onDrop,
     accept: {
-      'image/*': ['.png','.jpeg','.jpg','svg']
+      'image/*': ['.png','.jpeg','.jpg','.svg']
 
     }
   });
