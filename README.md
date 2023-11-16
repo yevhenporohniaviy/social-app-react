@@ -26,3 +26,17 @@ If you are developing a production application, we recommend updating the config
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # social-app-react
+
+# .env 
+
+ ```js
+   VITE_APPWRITE_PROJECT_ID=
+   VITE_APPWRITE_URL=
+   VITE_APPWRITE_STORAGE_ID=
+   VITE_APPWRITE_DB_ID=
+   VITE_APPWRITE_SAVES_COLLECTION_ID=
+   VITE_APPWRITE_USERS_COLLECTION_ID=
+   VITE_APPWRITE_POSTS_COLLECTION_ID=
+```
+
+![alt text](https://github.com/yevhenporohniaviy/social-app-react/social-app-react/main/assets/db/posts.png?raw=true)
